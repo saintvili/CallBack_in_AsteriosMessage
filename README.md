@@ -10,3 +10,5 @@
 <a href="http://info.asterios.ws:3000/callback_widget" target="_blank"> <strong>More info this Official Documentation </strong></a>
 
 <img src="https://asterios.ws/post/asterios_35e3942b49.jpg" />
+<br><hr><br>
+<img src="https://github.com/saintvili/CallBack_in_AsteriosMessage/blob/master/XpweKIB7oxs.jpg?raw=true" />
